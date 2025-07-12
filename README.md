@@ -1,46 +1,65 @@
 <div align="center" width="50">
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Data Science Workspace" width="60%"/><br>
-
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Adel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Telegram](https://img.shields.io/badge/Telegram-Mohamed_Adel-grey?style=flat&logo=telegram)](https://t.me/your_telegram) <br>
 </div>
 
-<hr>
+<h1 align="center">Hi, I'm Mohamed Adel 👋</h1>
+<h3 align="center">Data Scientist | AI Engineer | Machine Learning Enthusiast</h3>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+<a href="https://linkedin.com/in/mohamed-adel01"><img src="https://img.shields.io/badge/Mohmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/355705"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:mohamed.adel9104@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://kaggle.com/mohamed355705"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
+
+---
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
 
 ```python
-# tools_I_use organized
-
-class AboutMe:
+class MohamedAdel {
     def __init__(self):
-        self.my_tools = {
-            "DataScience": ["Python", "Pandas", "Numpy", "Scikit-learn"],
-            "MachineLearning": ["TensorFlow", "PyTorch", "Keras"],
-            "DataViz": ["Matplotlib", "Seaborn", "Plotly", "PowerBI"],
-            "BigData": ["Hadoop", "Spark"],
-            "Database": ["SQL", "MongoDB"],
-            "Editors": ["Vscode", "Jupyter"],
-            "Platforms": ["Linux", "Windows"]
+        self.role = "Data Scientist & AI Engineer"
+        self.skills = [
+            "Machine Learning",
+            "Deep Learning",
+            "Data Analysis",
+            "Python Programming",
+            "Data Visualization",
+            "Big Data Technologies"
+        ]
+        self.tools = {
+            "ML Frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "Data Tools": ["Pandas", "NumPy", "Power BI","Tableau","Excel"],
         }
+}
+```
+## 🔥 Highlights
+
+🔭 Currently working on AI model optimization and predictive analytics
+
+🌱 Learning LLMs and Generative AI technologies
+
+👯 Looking to collaborate on open-source AI projects
+
+💬 Ask me about Machine Learning, Data Science, or Python
+
+⚡ Fun fact: I believe clean data is more important than complex models
+
+---
+## 🧰 Tech Toolbox
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,git,github,linux,vscode" /> </p>
+
+---
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=355705&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=355705&theme=tokyonight&hide_border=true&border_radius=10" width="50%" />
+</p>
+
+---
+## ⚡️ Motto
+
+> **“Engineering decision intelligence at scale - where data meets actionable insights.”**
